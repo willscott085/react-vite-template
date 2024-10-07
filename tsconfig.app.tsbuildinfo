@@ -1,0 +1,1 @@
+{"root":["./src/app.test.tsx","./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/__tests__/setup.tsx","./src/components/layout.tsx","./src/hooks/usekeyboard.test.tsx","./src/hooks/usekeyboard.tsx","./src/routes/home.tsx"],"errors":true,"version":"5.6.2"}
